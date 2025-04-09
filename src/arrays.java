@@ -1,7 +1,17 @@
 public class arrays {
     // for {int i= 3, i <5, i++; }
     public static void main(String[] args) {
-        String[] months = {
+    int [] arrays = new int[] {1,3,5,7,9};
+    for (int i =0; 0<arrays.length; i++);
+    if (arrays[i] % 2 == 0) {
+        System.out.println([i])
+    }
+    }
+}
+
+
+
+        /*String[] months = {
                 "January", "February", "March", "April", "May", "June",
                 "July", "August", "September", "October", "November", "December"
         };
